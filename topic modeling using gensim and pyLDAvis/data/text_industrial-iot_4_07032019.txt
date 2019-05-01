@@ -1,0 +1,25 @@
+VocalZoom Unveils Vibration Sensors to Monitor Machine Health for the Industrial Internet of Things
+
+Non-contact laser sensors offer highly accurate predictive maintenance with maximum uptime and minimal deployment costs.
+VocalZoom, a leading provider of vibration sensors for industry 4.0, today announced the launch of its next-generation predictive maintenance sensors for the Industrial Internet of Things (IIoT).
+
+VocalZoom’s sensors measure the vibrations emitted by industrial machinery to predict and prevent mechanical failures before they occur. Because they can monitor machine health without touching the equipment, VocalZoom sensors cover a greater array of equipment and use cases than traditional predictive maintenance solutions, without the factory downtime and deployment costs associated with most sensors.
+
+The rise of IIoT-enabled equipment allows facilities to monitor the health of their equipment and machinery in order to reduce downtime and prevent mechanical failures, but most sensors rely on micro-electro-mechanical (MEMS), piezoelectric or acoustic technology that fails to address many of the established equipment found in many industrial settings. VocalZoom’s non-contact vibration sensors help industrial manufacturers easily deploy highly accurate sensors on both new and old machinery, even when it is wet, hot, moving, hard-to-reach or too small to deploy traditional sensors on.
+
+Tal Bakish, CEO of VocalZoom, said:
+
+    “The Industrial IoT is only as good as the sensors that monitor machine performance.”
+
+“Unfortunately, most IIoT sensors are built on technology that makes predictive maintenance solutions expensive and unreliable for a number of important use cases. Our vibration sensors represent the next generation of predictive maintenance solutions, offering better monitoring at lower cost for up to 70 percent of all industrial machinery.”
+
+Vibration sensing is the most accurate way to identify anomalies in a machine’s health and detect issues related to its condition and performance. VocalZoom’s patented vibration sensors use a SMLD (self-mixing-laser-diode) technology to measure the velocity, distance and vibrations of a machine. The sensors are just 15mmX6mmX3mm in size, enabling them to fit practically any configuration and geometry, and they operate at a distance up to 3 meters away from the machine they are monitoring.
+
+Industrial manufacturers using VocalZoom sensors receive benefits such as:
+
+    Optimal performance. Laser accuracy is better than mechanical sensors and, unlike audio sensors, immune to any ambient and environmental noise.
+    Minimal downtime. VocalZoom sensors deploy in a fraction of the time it takes to integrate traditional solutions, enabling facilities to get back up and running much faster.
+    Reduced maintenance costs. VocalZoom sensors require no batteries and have fewer moving parts than mechanical devices, requiring less maintenance time and fewer costs.
+    More equipment coverage. Because VocalZoom sensors have a small form factor and do not need to be placed in contact with the equipment they monitor, they can be applied to a number of unaddressed industrial use cases.
+
+“We believe data is the key for new and improved industrial IoT applications in a digitized era, and that vibration sensor provides the best data possible,” continued Bakish. “Our mission is to build the next generation of sensor technologies to serve a diverse range of markets, from oil and gas to automotive, consumer industries, medicine, and others.” 

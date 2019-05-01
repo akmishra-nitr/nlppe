@@ -1,0 +1,20 @@
+Crate.io Introduces IoT Data Platform for Discrete Manufacturing
+
+Solution capable of handling massive amounts of real-time data from smart factories.
+Crate.io, developer of CrateDB, a leading SQL data platform for real-time machine data and IoT applications, today announced a new application-specific solution for the manufacturing industry.
+
+The Crate IoT Data Platform for Discrete Manufacturing enables the collection, analysis, storage, and provisioning of data for integrated manufacturing control within smart factories – both locally and in the cloud.
+
+The data generated from smart factories comes in from countless sensors, machines, power supplies, employees, and various applications – and new data is arriving every millisecond. To properly capture, assess, and leverage this critical information for intelligent control requires both a real-time database and a reliable platform tailored to IIoT architectures, interfaces, data formats, and performance requirements.
+
+At the core of Crate.io’s new discrete manufacturing solution is CrateDB, a distributed SQL database optimized specifically for the requirements of IoT manufacturing, including real-time time-series management. The database combines the familiarity and convenience of SQL with the scalability and flexibility of NoSQL, and enables the storage and processing of all structured and unstructured data types, the handling of high volumes of data in real-time, and unlimited scaling that supports the growth of the organization using it.
+
+CrateDB allows the processing of time-series data in the millisecond range, in addition to enabling full-text search and geospatial queries for use within AI algorithms. The decentralized concept of the CrateDB database not only delivers simple and unlimited scaling by adding new nodes, but also ensures data consistently and availability.
+
+CrateDB itself builds on the production-optimized Crate Machine Data Platform, which provides standard interfaces to machines, devices, sensors, and applications that enable collected data to be enriched, analyzed, visualized, and distributed. It also allows the integration of microservices to trigger automated activities such as alarms. Capabilities such as ID management and monitoring & logging are also part of the platform.
+
+Due to the specific requirements involved with Discrete Manufacturing, Crate has now created the IoT Data Platform for Discrete Manufacturing. It provides core capabilities for IoT device management, data enrichment, data science (including AI and machine learning), and dashboards.
+
+Building on the expertise gained through use cases from manufacturing customers, the Crate IoT Data Platform provides an integrated basis for the development and implementation of individual solutions in manufacturers with massive data volumes. It allows for monitoring, forecasting, and control of sensor behavior in real-time, enabling immediate response to increase the availability of manufacturing production lines, operational efficiency, safety and, ultimately, profitability.
+
+The Crate IoT Data Platform for Discrete Manufacturing is now available and has already been installed at approximately 20 factories throughout the United States and Europe. ALPLA, a world leader in the packaging industry, has successfully leveraged the solution to monitor, control, and maintain distributed manufacturing facilities.

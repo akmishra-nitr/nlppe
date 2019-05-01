@@ -1,0 +1,36 @@
+PTC Fuels Leadership Momentum in Industrial IoT with New Manufacturing Workforce Productivity Solution
+
+Latest Release of ThingWorx Introduces Operator Advisor; Enhances Data Sourcing, Analysis, Visualization, and Security.
+PTC today announced the availability of a new version of its award-winning ThingWorx® Industrial Internet of Things (IIoT) solution platform.
+
+ThingWorx 8.4 introduces new capabilities, including Operator Advisor, designed to increase productivity of factory workers by simplifying the way critical operational data is collected, synthesized, and delivered. The new version builds on PTC’s unparalled IIoT strategy, further strengthening its robust portfolio of solutions that address real business challenges.
+
+There continues to be significant opportunity for industrial manufacturers to differentiate their product and service offerings and improve worker efficiency across their factory operations by leveraging IIoT technologies. According to a recent report from Deloitte and the Manufacturing Institute, advanced technology and digital skills must blend with uniquely human skills to yield the highest level of productivity.
+Putting IIoT to Work with New Solution for Manufacturing
+
+ThingWorx 8.4 introduces Operator Advisor, complementing PTC’s existing set of solutions designed for manufacturers. Operator Advisor helps manufacturers improve workforce productivity by simplifying the delivery of digital work instructions in context, eliminating static paper and PDF-based instructions. The solution can also gather data as workers complete tasks for product genealogy and increase visibility into factory operations. Operator Advisor brings IT and OT systems together and connects to smart tools and machines to create a unified operator screen.
+
+Mark Jaxion, lead, IoT & Industry 4.0, Vestas, said:
+
+    “ThingWorx Operator Advisor has transformed the way we deliver information to our employees on the shop floor.”
+
+“We’ve gone from providing text-based instructions via paper manuals to delivering work instructions with the 3D CAD files from PLM. The information is now delivered in context, letting employees focus on the task at hand, rather than digging around the various IT and OT systems for the right information.”
+
+PTC’s momentum in the IIoT market, particularly within manufacturing, has led to the acceptance and adoption of ThingWorx by customers, systems integrators, and strategic partners around the world. Colfax, Elekta, Lavifood, Sealed Air, Vestas, and Woodward represent a sampling of industry-leading organizations that have already found success with ThingWorx and IIoT.
+
+“ThingWorx has brought all our various systems together and makes the data from those actionable for our workers,” said Jay Drager, director, Global Business Systems, Woodward. “Not only have we been able to improve the quality of our products, but we’ve also increased efficiency and productivity across our facilities as well.”
+New Features and Functions in ThingWorx Platform
+
+To empower organizations to quickly capture value from their IIoT implementations, additional key enhancements in ThingWorx 8.4 include:
+
+    Easier-to-Use Dashboard – An updated user interface for the ThingWorx Mashup Builder tool makes it even easier to rapidly build and maintain IIoT solutions
+
+    Integration With Enterprise Systems and Data – ThingWorx Flow advances sourcing, synthesizing, and feeding data workflow into relevant business systems, while triggering important actions and providing alerts to end users
+
+    Enterprise Readiness – Organizations can scale ThingWorx for broader enterprise deployments. As part of this advancement, ThingWorx now seamlessly integrates with InfluxDB and Microsoft Azure SQL for persistence and time series data management
+
+    FactoryTalk InnovationSuite, powered by PTC, Integrations – The collaborative offering with Rockwell Automation is enhanced with features and tighter integration, enabling industrial companies to further optimize operations and enhance productivity with data and insights from IT and OT applications and systems
+
+AR Supercharges IIoT and Empowers Workers
+
+A key differentiator for PTC is the integration of its ThingWorx IIoT and Vuforia® augmented reality (AR) technologies. Work instructions from the new Operator Advisor solution, for example, can be delivered via an AR experience to provide the most immersive, productivity-enhancing experience for any front-line worker. Vuforia takes the transformative power of ThingWorx IIoT to the next level, and further empowers the next generation of connected workers.

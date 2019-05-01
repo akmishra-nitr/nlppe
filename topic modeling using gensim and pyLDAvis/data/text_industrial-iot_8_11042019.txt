@@ -1,0 +1,35 @@
+Asian manufacturing and logistics sectors power ahead with IoT adoption
+
+New report reveals the readiness of Asian manufacturers and supply chain enterprises in the adoption of innovation in the Industrial Internet of Things (IIoT) and how businesses plan to solve market-specific challenges.
+
+Key findings:
+
+    Key Asian markets have moved on from a “R&D in US or Europe, make in Asia” mentality as indigenous innovation is being derived from R&D facilities that rival those of other leading nations
+
+    China’s shift from being predominantly a manufacturing base to a centre of innovation means US and European companies may need to rethink their business strategies
+
+    Companies that don’t opt to enter the IIoT race run the risk of being left behind, and could vanish altogether
+
+    Components of IIoT like AI, robotics, data and M2M technologies are bringing about myriad new or untested legal and regulatory issues that companies need to keep top of mind if they are to move forward in this space
+
+International legal practice Osborne Clarke commissioned a new report produced in association with Conventus Law, entitled ‘How will IoT transform industry in Asia?‘. The report expands on these findings, outlining how four of the region’s leading economies – China, Hong Kong, India and Singapore – are experimenting and innovating with IIoT for manufacturing, logistics and supply chains. The report also discusses how governmental support has been integral to this shift towards greater automation.
+
+In addition to the report, Osborne Clarke and Conventus Law surveyed 40 key business leaders operating in Asian markets in manufacturing, manufacturing services, logistics and supply chain related companies and found that 62.5% had already implemented and are looking to expand the use of IIoT in their business. Among those questioned, Mainland China (72.5%) and Hong Kong (60%) were the key markets where companies are planning to or are already using IIoT technologies.
+
+While 82% of these business leaders cited the cost of labour and production as the major factor driving the adoption of IIoT, cyber-security exposure (92.5%) and data protection (92.5%) were listed as the key challenges in implementing the technologies.
+
+In China, the government initiative, ‘Made in China 2025’, provides high-tech industries such as robotics and AI, with subsidies, low-interest loans, rent-free land and tax breaks. The Belt and Road Initiative (BRI) has also been central to China’s tech evolution by helping the country to shift away from a reliance on heavy industry towards demand-driven growth. E-commerce giants are also helping to push their suppliers up the development curve.
+
+Singapore is also investing heavily in IIoT, thanks to the country’s Smart Nation strategy. The government has also thrown its weight behind introducing open IIoT standards while also pushing for greater regulatory knowledge within the space. In September 2018, the Singapore Management University (SMU) launched a new Centre for AI and Data Governance, receiving a S$4.5 million (US$3.3 million) grant from the government.
+
+Meanwhile Hong Kong is seemingly positioning itself as the R&D hub for Southern China. The city is already attracting China-based manufacturers, keen to access the city’s talent and capital, while enjoying valuable support from the government.
+
+Finally, in India, the IIoT revolution is being driven particularly by the logistics sector, thanks to a government decision to remove state-level taxes on goods, clearing the way for warehouse operators to streamline and consolidate their storage solutions. Innovation has also been driven by government digital initiatives, such as the electronic waybill system, which has further incentivised companies to automate their operations.
+
+Adrian Bott, from Osborne Clarke’s Hong Kong office, commented:
+
+    “Much of Asia’s success has come from its manufacturing might, but as new manufacturing hubs emerge around the world, Asian economies must innovate if they’re to stay ahead. Developments in IIoT provide enormous opportunities for automation, smart manufacturing and predictive asset management, giving a significant boost to efficiency and output of traditional manufacturing processes.”
+
+“Many Asian businesses are leading the way in putting these technologies into practice, supported by governments that are committed to making their mark on a global scale and regions like China and Singapore are already proving to be centres of innovation in their own right.” said Adrian.
+
+Equipped with next-generation connectivity, business leaders have the opportunity to rethink the ways they do business, to reduce inefficiencies, reach new audiences, better serve existing ones and open up new revenue streams, according to the recent Next Generation Connectivity report which was published by Osborne Clarke in collaboration with the Economist Intelligence Unit. They also face new competitive threats and risks such as information security and legal liability, but this will not still the tide as 5G mobile networks, full-fibre broadband and satellite internet technology deliver a step change in connectivity and its capabilities.

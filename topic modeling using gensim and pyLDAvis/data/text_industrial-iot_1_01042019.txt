@@ -1,0 +1,24 @@
+PTC Improves Workforce Efficiency with Launch of Vuforia Expert Capture AR Solution
+
+Providing a Faster, More Efficient Way to Empower Front-Line Workers.
+PTC today announced from HANNOVER MESSE the release of its Vuforia® Expert Capture™ augmented reality (AR) solution, which is designed to improve workforce productivity, quality, safety, and compliance.
+
+Vuforia Expert Capture provides industrial enterprises with a faster, more efficient way to empower front-line workers with the relevant information they need to get the job done quickly and accurately the first time.
+
+With a major skills gap threatening the manufacturing industry, more effective knowledge transfer from existing subject matter experts (SMEs) is critical. Over the next decade, 10 million manufacturing jobs will likely be needed, yet millions are expected to go unfilled, according to a report from Deloitte and the Manufacturing Institute. An exodus of retiring workers, combined with increasing product complexity and customer demand, requires best-in-class manufacturers to take new approaches for delivering relevant information to front-line workers.
+
+“We are excited to offer industrial enterprises a new way to use AR to leverage the tribal knowledge of SMEs and help alleviate the skills gap crisis threatening today’s industrial enterprise,” said Mike Campbell, EVP, augmented reality products, PTC.
+
+    “Vuforia Expert Capture is a high-value, out-of-the-box solution that accelerates AR content creation that enables manufacturers to not only improve the accuracy and speed at which workers successfully complete new or unfamiliar tasks, but also to reduce training costs and time to productivity.”
+
+Vuforia Expert Capture provides up-to-date, relevant information when and where workers need it most – in the real-world context of their daily work environment. Knowledge can be captured on-the-fly as needs arise, without causing disruption to high-value workers. No advance preparation or development efforts are required to easily create step-by-step instructions for hands-on training and task guidance.
+
+Captured procedures can be fine-tuned in a secure, SaaS-based environment and then dynamically delivered on RealWear HMT-1, Microsoft HoloLens, and mobile devices to front-line workers across the enterprise. Spatial intelligence from HoloLens’ location-aware functionality can be leveraged to safely guide front-line workers through multi-step procedures at different locations without compromising speed and accuracy.
+
+Vuforia Expert Capture is a valuable solution in manufacturing environments where existing service/maintenance/changeover procedures for equipment are unavailable. SMEs can easily record directions on how to perform these critical tasks, which can then be shared with new or redeployed workers for fast, efficient on-the-job guidance. Easy access to standardized instructions in the context of their work environment enables improved worker understanding and increased efficiency, uptime, and quality.
+
+“Global Foundries has embraced augmented reality across its worldwide factories as one of the key levers of productivity improvements in a competitive marketplace,” said DP Prakash, Head of Innovation in AI ML AR VR, from the CIO Office of Global Foundries.
+
+“With Vuforia Expert Capture, we are increasingly able to capture the wisdom of our workforce on the factory floors. This Vuforia capability speeds up the time to document Standard Operating Procedures (SOPs) by up to 10X, and helps reduce training time for employees in the classroom and factory by 50 percent.”
+
+Vuforia Expert Capture is expected to be generally available at the end of May 2019.

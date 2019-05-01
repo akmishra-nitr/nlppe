@@ -1,0 +1,30 @@
+Fleet IoT offering registers one million devices in 24 hours
+
+The co-founder of Fleet Space Technologies says the registration of one million devices in less than 24 hours to its low-cost satellite network shows the time is right for the Internet of Things.
+
+Flavia Tata Nardini, CEO of the South Australian company Fleet Space Technologies, said the company’s Project Galaxy offer to connect devices for US$2 per year last week at an Internet of Things conference proved her vision for low-power, cost efficient industrial IoT was supported by the market.
+
+“It’s an aggressive call in the market from a company that’s vision has always been to allow people to connect for $2 per year or less, to allow them to make IoT happen in the world,” Tata Nardini said.
+
+She said the “ballsy move” wasn’t the usual way satellite companies launched systems but the success of her “Apple style” pitch proved there was demand to connect LoRaWAN devices to its flagship, fully integrated IoT gateway.
+
+“I was on stage (announcing the deal) and reservations where coming through while I was on stage,” Tata Nardini said. “For a satellite company using an IoT product this speed is not usual.”
+
+Tata Nardini, said:
+
+    “The revolution is here. Project Galaxy booked out within 24 hours with one million devices registered and over two million on the waiting list, this in itself reveals the enormous demand of low-power, cost efficient industrial IoT.”
+
+She said that interest came from several Fortune 500 companies and the world’s most innovative IoT startups, especially in the agritech, mining, energy and construction sectors, which all had large unconnected areas.
+
+“This can change their digital transformation,” Tata Nardini said.
+
+Close to 40 per cent of the reservations came from the United States with the rest of the interest spread across the world.
+
+Fleet Space Technologies launched the first of its nanosatellites in 2018 on board SpaceX, Rocket Lab and ISRO and has a tracking station an hour outside of Adelaide, South Australia.
+
+The company is now preparing to launch an additional 10 satellites by the beginning of 2020 to meet the demand, joining the 50 million LoRa-based devices online as of 2018 across a hundred countries.
+
+Tata Nardini said being part of the LoRa Alliance’s 500 member ecosystem had fuelled Fleet Space Technologies’ growth.
+
+“For years, the market has faced systems that are too expensive, plagued with limited bandwidth or operating in technology silos. Industrial IoT solutions are no longer out of reach, we’re thrilled to be a pioneering ultra-low cost IoT for business across the globe,” Tata Nardini said.
+Fleet Space Technologies is based in Adelaide, South Australia and is part of a growing space industry ecosystem in the state, which includes many defence industry primes. In December, South Australia was announced as the home of the new Australian Space Agency, which will take up residency at Lot Fourteen, a startup incubator precinct in the heart of Adelaide.

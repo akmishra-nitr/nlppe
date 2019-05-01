@@ -1,0 +1,25 @@
+Ericsson launches Ericsson Industry Connect to accelerate Industry 4.0
+
+Ericsson has launched Ericsson Industry Connect, an easy-to-use cellular connectivity solution to accelerate Industry 4.0 digital transformation.
+
+Ericsson Industry Connect enables communication service providers to offer dedicated cellular networks at factories and warehouses starting with 4G/LTE, with a clear path to 5G.
+
+The offering strengthens Ericsson’s private networks and IoT portfolios by making 4G and 5G technologies accessible to new industrial markets.
+
+Purpose-built for industrial environments such as factories and warehouses, the dedicated cellular connectivity solution enables secure, reliable coverage with high device density and predictable latency.
+
+With a network management experience designed to be easy to use and manage for information technology (IT) and operational technology (OT) professionals, the solution aims to make cellular technology rapidly deployable for factory and warehouse staff.
+
+With industrial-grade wireless connectivity, Ericsson Industry Connect can enable innovative Industry 4.0 use cases such as: digital twin inspection (a real-time digital replica of a physical entity) with massive amounts of sensors; mobility for human machine interface (HMI) instructions for workers; collision avoidance and remote control for autonomous guided vehicles (AGVs); and collaborative robotics for automated operations.
+
+Åsa Tamsons, Senior Vice President, Head of Business Area Technologies and New Businesses, Ericsson, says:
+“Ericsson Industry Connect is built on design thinking to meet industrial customers’ requirements on speed, reliability and security, while being easy to install and manage. It helps enterprises to accelerate their automation and operational efficiency to the next level. It complements service providers’ offerings to enterprises with a solution that is easy to scale. Ericsson Industry Connect increases the relevance of cellular solutions in the high growing segment of industrial connectivity – leveraging Ericsson’s technology leadership, strength in connectivity, and R&D investments to date.”
+
+Swedish provider of transport solutions, Scania has already implemented Ericsson Industry Connect in its smart production lab in Södertälje, Sweden.
+
+Roger Hartonen, Senior Manager Industrial IT, Scania Group, says:
+“High quality, fast, and secure connectivity of our industrial environment is now an absolute must for us. Ericsson Industry Connect gives us reliable wireless connectivity which will enable flexibility for us on the factory floor. At Scania, we are driving the shift toward sustainable transport by continuously innovating our manufacturing processes.”
+
+Pierce Owen, Principal Analyst, ABI Research, says:
+
+    “The technology case for private LTE has existed for some time now, but with Industry Connect, Ericsson has productized that technology in a way that empowers implementers and operators to deliver the benefits of private LTE to factories and warehouses with a real business case.”
